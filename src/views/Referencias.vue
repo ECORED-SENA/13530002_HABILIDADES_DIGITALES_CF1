@@ -12,7 +12,6 @@
           | {{item.tituloenlace.length ? item.tituloenlace : item.enlace}}
       hr
 
-  
     .row.justify-content-betwee
 
       .col-12.col-lg-6.mb-3.mb-lg-0
