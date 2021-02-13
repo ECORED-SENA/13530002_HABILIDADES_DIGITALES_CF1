@@ -127,11 +127,10 @@ footer
             br
             span.text-small Regional Santander
 
-
           h4.footer-subtitulo-2.mt-5
             .fa.fa-caret-right.mr-2
             | Gestores de repositorio
-          
+
           p.footer-texto
             strong Ricardo Alfonso Gonzalez Vargas
             br
@@ -140,7 +139,6 @@ footer
             span.text-small CENTRO DE COMERCIO Y SERVICIOS
             br
             span Regional Tolima
-
 
       .row.justify-content-center.align-items-center.mt-5
         img(src="@/assets/images/logos/senaLogo.svg", style="max-width:100px")
