@@ -1,6 +1,6 @@
 <template lang="pug">
 
-div(:class="$route.name === 'inicio' ? ['container'] : ['container-fluid']")
+div(:class="$route.name === 'inicio' ? ['container'] : ['container-fluid','container--over-menu']")
 
   .topbar.d-flex.justify-content-between.align-items-center(:class="topBarClasses")
 
@@ -59,6 +59,7 @@ export default {
 // @import "@/assets/scss/base/_variables.scss"
 .container-fluid,.container
   padding: 0
+.container--over-menu
   margin-top: 65px
 .topbar
   margin-bottom: 2rem
