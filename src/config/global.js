@@ -45,38 +45,43 @@ export const menuPrincipal = {
       submenu: [
         {
           icon: 'fa fa-file-text',
-          title: '1.1 Dispositivos',
+          title: '1.1 Impacto de las TIC',
           hash: 't_1_1',
         },
         {
           icon: 'fa fa-file-text',
-          title: '1.1.1 Reconocimiento de dispositivos',
+          title: '1.1.1 Desarrollo de las TIC',
           hash: 't_1_1_1',
         },
         {
           icon: 'fa fa-file-text',
-          title: '1.1.2 Tipos de dispositivos para conectarse a internet',
+          title: '1.1.2 Las TIC en el entorno del día a día',
           hash: 't_1_1_2',
         },
         {
           icon: 'fa fa-file-text',
-          title: '1.2 Impacto de las TIC',
+          title: '1.1.3 Las TIC en el entorno académico',
+          hash: 't_1_1_3',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '1.1.4 Las TIC en el entorno laboral',
+          hash: 't_1_1_4',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '1.2 Dispositivos',
           hash: 't_1_2',
         },
         {
           icon: 'fa fa-file-text',
-          title: '1.2.1 Impacto Académico',
+          title: '1.2.1 Reconocimiento de dispositivos',
           hash: 't_1_2_1',
         },
         {
           icon: 'fa fa-file-text',
-          title: '1.2.2 Impacto Social',
+          title: '1.2.2 Tipos de dispositivos para conectarse a internet',
           hash: 't_1_2_2',
-        },
-        {
-          icon: 'fa fa-file-text',
-          title: '1.2.3 Impacto Emprendimiento',
-          hash: 't_1_2_3',
         },
       ],
     },

@@ -37,8 +37,7 @@
           .col-lg-10
             Tics.mb-6
 
-
-        #t_1_1_1.header-ecored--b.mb-5
+        .header-ecored--b.mb-5
           h2 ¿Qué son las TIC?
 
         p.mb-5 “Las Tecnologías de la Información y la Comunicación, también conocidas como TIC, son un conjunto de tecnologías, desarrolladas para gestionar información y enviarla de un lugar a otro, y cubren un amplio abanico de soluciones. 
@@ -106,7 +105,7 @@
         p.mb-6 Las TIC pueden ser aplicadas en muchas áreas de nuestra vida:
 
         
-        #t_1_1_1.header-ecored--b.mb-5
+        #t_1_1_2.header-ecored--b.mb-5
           h2 1.1.2 Las TIC en el entorno del día a día
 
         p.mb-5 En la vida cotidiana, las TIC funcionan como:
@@ -137,7 +136,7 @@
                   strong despertar, hacer ejercicio, organizar la agenda
                   | , trabajar en la oficina y muchas otras tareas.
 
-        #t_1_1_1.header-ecored--b.mb-5
+        #t_1_1_3.header-ecored--b.mb-5
           h2 1.1.3 Las TIC en el entorno académico
 
         p En el campo de la educación, 
@@ -180,7 +179,7 @@
             p También, se pueden expresar y compartir experiencias y conocimientos, obteniendo una retroalimentación de personas que viven en otra parte del mundo y en tiempo real.
 
 
-        #t_1_1_1.header-ecored--b.mb-5
+        #t_1_1_4.header-ecored--b.mb-5
           h2 1.1.4 Las TIC en el entorno laboral
 
         p.mb-6 En cualquier empresa grande, mediana o pequeña, 
@@ -272,10 +271,10 @@
           .col-lg-8
             p Y nos brindan muchas oportunidades a nivel social, económico, cultural y personal, entre otros.
 
-        #t_1_1.header-ecored.title-full-width
+        #t_1_2.header-ecored.title-full-width
           h1 1.2 Dispositivos
 
-        #t_1_1_1.header-ecored--b.mb-5
+        #t_1_2_1.header-ecored--b.mb-5
           h2 1.2.1 Reconocimiento de dispositivos
 
         p.mb-5 Seguramente en este momento estará conectado desde 
@@ -291,7 +290,7 @@
           allowfullscreen=''
         )
 
-        #t_1_1_1.header-ecored--b.mb-5
+        #t_1_2_2.header-ecored--b.mb-5
           h2 1.2.2 Tipos de dispositivos para conectarse a internet
 
         p.mb-6 Navegar por Internet nos abre un abanico de posibilidades para buscar y difundir información, conectarnos con personas de todas partes y realizar diferentes tareas que satisfagan las necesidades de la población en general.
