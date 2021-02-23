@@ -139,6 +139,7 @@ export default {
   height: 100%
   display: flex
   flex-direction: column
+  z-index: 1000000000000
 
 .aside-contenidos__body
   height: 100%

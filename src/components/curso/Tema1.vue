@@ -206,7 +206,7 @@
         iframe(
           width='100%', 
           height='600', 
-          src='https://www.youtube.com/embed/OUA-M4LqynA', 
+          src='https://www.youtube.com/embed/Hw6TzcBSsRg', 
           frameborder='0', 
           allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
           allowfullscreen=''
@@ -231,7 +231,7 @@
         iframe(
           width='100%', 
           height='600', 
-          src='https://www.youtube.com/embed/OUA-M4LqynA', 
+          src='https://www.youtube.com/embed/mxic99aIV_s', 
           frameborder='0', 
           allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
           allowfullscreen=''
@@ -250,7 +250,7 @@
         iframe(
           width='100%', 
           height='600', 
-          src='https://www.youtube.com/embed/OUA-M4LqynA', 
+          src='https://www.youtube.com/embed/o37jl_n6zOk', 
           frameborder='0', 
           allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
           allowfullscreen=''

@@ -47,7 +47,7 @@ export default {
 </script>
 <style scoped lang="sass">
 .curso-portada
-  padding: 0 2rem 2rem 2rem
+  padding: 2rem 2rem 2rem
 
 .badge
   background-color: $tags-bg-color

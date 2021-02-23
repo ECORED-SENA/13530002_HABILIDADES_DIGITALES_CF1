@@ -2,7 +2,7 @@
 
 div(:class="$route.name === 'inicio' ? ['container'] : ['container-fluid']")
 
-  .topbar.d-flex.justify-content-between.align-items-center(:class="$route.name != 'inicio' && ['topbar--fixed','flex-row-reverse']")
+  .topbar.d-flex.justify-content-between.align-items-center(:class="topBarClasses")
 
     .topbar__logo
       img(src="@/assets/images/logos/senaLogo.svg")
@@ -40,6 +40,18 @@ export default {
       type: Boolean,
     },
   },
+  computed: {
+    topBarClasses() {
+      const newClasses = []
+      if (this.$route.name != 'inicio') {
+        newClasses.push('topbar--fixed', 'flex-row-reverse')
+      }
+      if (this.showMenu) {
+        newClasses.push('topbar--open')
+      }
+      return newClasses
+    },
+  },
 }
 </script>
 
@@ -47,15 +59,25 @@ export default {
 // @import "@/assets/scss/base/_variables.scss"
 .container-fluid,.container
   padding: 0
+  margin-top: 65px
 .topbar
   margin-bottom: 2rem
   padding-top: 1rem
+  transition: width 0.5s ease-in-out
+  max-height: 65px
+  z-index: 1000000000
 
   &--fixed
     padding: 0.5rem 1rem
     margin-bottom: 2rem
     padding-top: 0
+    top: 0
     background-color: $white
+    position: fixed
+    width: 100%
+
+  &--open
+    width: calc(100% - 320px)
 
   &__logo
     img
