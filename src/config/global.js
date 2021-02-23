@@ -1,5 +1,5 @@
 export const global = {
-  tituloPrincipal: 'Empezando el aprendizaje, dispositivos y TIC.',
+  tituloPrincipal: 'Módulo 1. Empezando el Aprendizaje, dispositivos y TIC',
   subtituloPrincipal:
     'Desarrollo de habilidades digitales para la gestión de la información ',
   descripcionCurso:
@@ -15,7 +15,7 @@ export const desarrolloDeContenidos = [
   },
   {
     type: '1',
-    title: 'Componentes',
+    title: 'Empezando el aprendizaje, dispositivos y TIC',
     route: 'curso',
   },
   {

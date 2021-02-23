@@ -9,12 +9,9 @@
 
       .card.resultado-item
         .card-body
-          ul.bg-color-dark
-            li 
-              span Reconocer las situaciones de la población privada de la libertad de acuerdo con los principales componentes del sistema penitenciario y carcelario.
-            li
-              span Valorar la apropiación de la información obtenida del sistema penitenciario y carcelario de acuerdo con la normatividad vigente.
-
+          ul.bg-color-dark.mb-0
+            li.mb-0
+              span Seleccionar información y recursos digitales teniendo en cuenta herramientas y protocolos de búsqueda.
 
   section#IndiceTematico.curso-indice-tematico.section
     .container
@@ -22,7 +19,6 @@
         br 
         | contenidos
       .brand-line-primary
-
 
       .row.justify-content-center
         .col-12.col-sm-10
