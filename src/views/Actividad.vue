@@ -15,7 +15,7 @@
       .text-center.p-2
         h2 ¡Ponga a prueba su conocimiento! 
         p La siguiente actividad tiene como propósito validar los conocimientos relacionados con el tema <strong>Normativa vigente proceso ECCL</strong>.
-        a(href="media/actividad-1/index.html" target="_blank" class="btn btn-colour-Orange") Iniciar            
+        a.btn.btn-colour-Orange(href="" @click.prevent="abrirActividades") Iniciar
       hr.line-100.bg-orange
     
 </template>
@@ -23,6 +23,17 @@
 <script>
 export default {
   name: 'Actividad',
+  methods: {
+    abrirActividades() {
+      let url = window.location.href.replace(window.location.hash, '')
+      if (url.includes('index.html')) {
+        url = url.replace('index.html', '') + 'actividades/index.html'
+      } else {
+        url = url + 'actividades/'
+      }
+      window.open(url, '_blank')
+    },
+  },
 }
 </script>
 

@@ -15,7 +15,18 @@ aside
       ul#menuMain.menu-main
         template(v-for="(item,index) of menuData")
           li.menu-main__item(:key="`menu-item-${index}`")
+
+            a.menu-main__link(
+              v-if="item.hasOwnProperty('download')"
+              @click.prevent="descargarZip(item.download)"
+            )
+              span.menu-main__texto 
+                strong {{item.title}}
+              span.menu-main__icono
+                i(:class="item.icon")
+
             router-link.menu-main__link(
+              v-else
               :to="{name: item.routeName}",
               :class="{'menu-main__link--active' : $route.name == item.routeName}"
             )
@@ -95,6 +106,7 @@ export default {
       const menuObject = this.menuData.find(
         item => item.routeName === this.$route.name,
       )
+      console.log(this.$route.name)
       if (!menuObject.submenu && !menuObject.submenu.length) {
         return {}
       } else {
@@ -127,6 +139,16 @@ export default {
       if (to.name === 'inicio' && this.showMenu) {
         this.$emit('update:showMenu', false)
       }
+    },
+  },
+  methods: {
+    descargarZip(ruta) {
+      let url = window.location.href.replace(window.location.hash, '')
+      if (url.includes('index.html')) {
+        url = url.replace('index.html', '')
+      }
+      url = url + ruta
+      window.open(url, '_blank')
     },
   },
 }

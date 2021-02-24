@@ -110,7 +110,7 @@ export const menuPrincipal = {
     {
       icon: 'fa fa-download',
       title: 'Descargar material',
-      download: 'download/material.zip',
+      download: 'downloads/material.zip',
     },
   ],
 }
