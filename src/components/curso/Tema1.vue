@@ -8,7 +8,6 @@
         #t_1_1.header-ecored.title-full-width
           h1 1.1 Impacto de las TIC
 
-
         .row.align-items-center.justify-content-around.mb-5
           .col-lg-4
             p.h1 
@@ -23,8 +22,6 @@
               br
               br
               | ¿Qué impacto puede tener esto en la vida de las personas? ¿Podrá agilizar tiempos? ¿Podrá hacer crecer negocios?
-
-
 
         p.mb-6 Es así como las tecnologías de la información y comunicación (TIC), 
           strong han eliminado las barreras de espacio y tiempo
@@ -62,7 +59,6 @@
           .col-6.col-md-4.col-lg-3
             img(src="@/assets/images/pages/tema1/img-6.svg")
 
-
         p.mb-5 Es así, como el nuevo entorno social demanda que el ciudadano del siglo XXI, desarrolle 
           strong nuevas competencias que le permitan el desenvolvimiento en los contextos académicos y profesionales. 
           | Por supuesto, es necesario saber leer, escribir, tener conocimientos de ciencia, geografía, historia, matemáticas, pero todo eso se complementará con el desarrollo de las destrezas y habilidades que le permitirán actuar en este espacio virtual.
@@ -77,9 +73,6 @@
         p Navegar en internet abre un abanico de 
           strong oportunidades para buscar y difundir información
           | , conectarse con personas y realizar diversas tareas que hoy se han convertido en necesidades de la poblaciónLa TIC han tenido un gran desarrollo durante los últimos años, como veremos a continuación:
-          br
-          br
-          | en general.
 
         .row.justify-content-center.mb-6
           .col-md-6.col-lg-5
@@ -104,7 +97,6 @@
 
         p.mb-6 Las TIC pueden ser aplicadas en muchas áreas de nuestra vida:
 
-        
         #t_1_1_2.header-ecored--b.mb-5
           h2 1.1.2 Las TIC en el entorno del día a día
 
@@ -178,7 +170,6 @@
             hr
             p También, se pueden expresar y compartir experiencias y conocimientos, obteniendo una retroalimentación de personas que viven en otra parte del mundo y en tiempo real.
 
-
         #t_1_1_4.header-ecored--b.mb-5
           h2 1.1.4 Las TIC en el entorno laboral
 
@@ -200,7 +191,6 @@
           | El siguiente video presenta la historia de 
           strong Yulián Tellez, un chef nacido en el municipio de Guamal
           | , quien ha logrado compartir muchos de sus exquisitos platos vía Internet y, gracias a esa herramienta, su negocio ha empezado a obtener resultados positivos.
-
 
         iframe(
           width='100%', 
@@ -225,7 +215,6 @@
           | , sabanalargueros, quienes crearon Domit Express, 
           strong la app en la que los negocios locales presentan productos para los consumidores 
           | y que, a la vez, son transportados por “mototaxistas” organizados a través de una cooperativa de transporte.
-
 
         iframe(
           width='100%', 
@@ -307,7 +296,6 @@
         p Como se mencionó anteriormente, uno de los dispositivos más utilizados es el computador, aunque en la actualidad, también se utilizan los teléfonos móviles, debido a la 
           strong facilidad de transportarlos e integrarlos a varios servicios, dentro de un mismo dispositivo.
 
-
         .row.align-items-center.justify-content-around.mb-4.mb-lg-0
           .col-lg-8.col-xl-6
             .tarjeta--azul
@@ -349,7 +337,6 @@
 
           .col-8.col-lg-6
             img(src="@/assets/images/pages/tema1/img-16.svg")
-
 
 </template>
 

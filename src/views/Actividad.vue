@@ -14,7 +14,8 @@
       hr.line-100.bg-orange
       .text-center.p-2
         h2 ¡Ponga a prueba su conocimiento! 
-        p La siguiente actividad tiene como propósito validar los conocimientos relacionados con el tema <strong>Normativa vigente proceso ECCL</strong>.
+        p La siguiente actividad tiene como propósito validar los conocimientos relacionados con el tema 
+          strong Empezando el aprendizaje, dispositivos y TIC.
         a.btn.btn-colour-Orange(href="" @click.prevent="abrirActividades") Iniciar
       hr.line-100.bg-orange
     
