@@ -23,12 +23,12 @@
               br
               | ¿Qué impacto puede tener esto en la vida de las personas? ¿Podrá agilizar tiempos? ¿Podrá hacer crecer negocios?
 
-        p.mb-6 Es así como las tecnologías de la información y comunicación (TIC), 
+        p.mb-6 Es así como las Tecnologías de la Información y Comunicación (TIC), 
           strong han eliminado las barreras de espacio y tiempo
           | , permitiendo llevar, a nivel global, el mundo de la comunicación.
           br
           br
-          | Se encuentran en todas partes y en la mayoría de las acciones que realizamos en el día a día, como son las que veremos a continuación:
+          | Se encuentran en todas partes y en la mayoría de las acciones que realizamos en el día a día, como son las que verán a continuación:
 
         .row.justify-content-center
           .col-lg-10
@@ -38,8 +38,8 @@
           h2 ¿Qué son las TIC?
 
         p.mb-5 “Las Tecnologías de la Información y la Comunicación, también conocidas como TIC, son un conjunto de tecnologías, desarrolladas para gestionar información y enviarla de un lugar a otro, y cubren un amplio abanico de soluciones. 
-          strong Incluyen las tecnologías para almacenar información y recuperarla en otro momento, enviar y recibir información de un sitio a otro, procesar información para calcular resultados y elaborar informes"
-          |. (ServiciosTIC, 2006).
+          strong Incluyen las tecnologías para almacenar información y recuperarla en otro momento, enviar y recibir información de un sitio a otro, procesar información para calcular resultados y elaborar informes
+          |" (ServiciosTIC, 2006).
           br
           br
           | Algunos ejemplos de TIC son:
@@ -72,7 +72,7 @@
 
         p Navegar en internet abre un abanico de 
           strong oportunidades para buscar y difundir información
-          | , conectarse con personas y realizar diversas tareas que hoy se han convertido en necesidades de la poblaciónLa TIC han tenido un gran desarrollo durante los últimos años, como veremos a continuación:
+          | , conectarse con personas y realizar diversas tareas que hoy se han convertido en necesidades de la población. Las TIC han tenido un gran desarrollo durante los últimos años, como se observa a continuación:
 
         .row.justify-content-center.mb-6
           .col-md-6.col-lg-5
@@ -93,14 +93,14 @@
               .desarrollo-tic__item__texto.pt-6.px-3.px-md-5.pb-5
                 p.mb-0 La telefonía celular ha sido 
                   strong una de las tecnologías que más ha avanzado durante los últimos años. 
-                  | En la actualidad, con los teléfonos inteligentes o smartphones, se puede acceder a toda la información de la web y realizar múltiples tareas, a través de las distintas aplicaciones móviles.
-
-        p.mb-6 Las TIC pueden ser aplicadas en muchas áreas de nuestra vida:
+                  | En la actualidad, con los teléfonos inteligentes o 
+                  i smartphones
+                  |, se puede acceder a toda la información de la web y realizar múltiples tareas, a través de las distintas aplicaciones móviles.
 
         #t_1_1_2.header-ecored--b.mb-5
           h2 1.1.2 Las TIC en el entorno del día a día
 
-        p.mb-5 En la vida cotidiana, las TIC funcionan como:
+        p.mb-5 En la vida cotidiana las TIC pueden ser aplicadas en muchas áreas y funcionan como:
         
         .row.justify-content-center
           .col-sm-8.col-md-6.col-xl-4.mb-6
@@ -159,7 +159,7 @@
                   p.mb-2.h1 Es así como las herramientas TIC llegaron para quedarse e 
                     span.texto-amarillo impactar nuestras vidas.
 
-        p.mb-5 Por lo tanto, podemos concluir que las TIC ejercen como:
+        p.mb-5 Por lo tanto, se puede concluir que las TIC ejercen como:
         
         img.d-none.d-lg-block(src="@/assets/images/pages/tema1/img-13.svg")
         img.d-none.d-sm-block.d-lg-none(src="@/assets/images/pages/tema1/img-15.svg")
@@ -176,6 +176,7 @@
         p.mb-6 En cualquier empresa grande, mediana o pequeña, 
           strong las TIC contribuyen al crecimiento y aumento de la productividad
           | , porque mejoran los procesos y los canales de comunicación, a través de una página web, un perfil en redes sociales, un correo electrónico, e inclusive, una aplicación para dispositivos móviles.
+          br
           br
           | Igualmente permiten generar:
           br
@@ -206,11 +207,11 @@
           | (septiembre 19 de 2020). 
           strong Yul, el cocinero llanero que con tecnología ha dado a conocer sus recetas 
           | (Video). Disponible 
-          a(href="s" target="_blank") aquí.
+          a(href="https://www.youtube.com/watch?v=Hw6TzcBSsRg" target="_blank") aquí.
 
         hr.mb-5
 
-        p.mb-5 Como ejemplo de emprendimiento, al hacer un buen uso de las TIC, el siguiente video nos presenta a 
+        p.mb-5 Como ejemplo de emprendimiento, al hacer un buen uso de las TIC, el siguiente video presenta a 
           strong Mathew y Manuel
           | , sabanalargueros, quienes crearon Domit Express, 
           strong la app en la que los negocios locales presentan productos para los consumidores 
@@ -227,12 +228,12 @@
 
         p.mb-5.small 
           strong Ministerio TIC Colombia. 
-          | (septiembre 24 de 2020). Domit Express: una aplicación que promociona el comercio local y vincula al 'mototaxismo’ (Video). Disponible
-          a(href="s" target="_blank") aquí.
+          | (septiembre 24 de 2020). Domit Express: una aplicación que promociona el comercio local y vincula al 'mototaxismo’ (Video). Disponible 
+          a(href="https://www.youtube.com/watch?v=mxic99aIV_s" target="_blank") aquí.
 
         hr.mb-5
 
-        p.mb-5 A continuación, lo invitamos a ver en el siguiente video, un resumen sobre 
+        p.mb-5 A continuación, se le invita a ver en el siguiente video, un resumen sobre 
           strong las TIC: qué son y cómo han transformado las vidas de muchas personas.
 
         iframe(
@@ -258,7 +259,7 @@
                 p.h1.mb-0 Es importante que aprendamos a convivir con las TIC, porque son 
                   span.texto-amarillo parte de nuestra cultura.
           .col-lg-8
-            p Y nos brindan muchas oportunidades a nivel social, económico, cultural y personal, entre otros.
+            p Además, las TIC brindan muchas oportunidades a nivel social, económico, cultural y personal, entre otros.
 
         #t_1_2.header-ecored.title-full-width
           h1 1.2 Dispositivos
@@ -268,7 +269,7 @@
 
         p.mb-5 Seguramente en este momento estará conectado desde 
           strong un dispositivo móvil, un computador o una tableta
-          | . Sin embargo, ¿realmente conocemos qué componentes básicos tienen estos dispositivos? El siguiente video presenta aspectos relevantes que ayudarán a dar respuesta a esta interrogante.
+          | . Sin embargo, ¿realmente se conoce qué componentes básicos tienen estos dispositivos? El siguiente video presenta aspectos relevantes que ayudarán a dar respuesta a esta interrogante.
 
         iframe.mb-6(
           width='100%', 
@@ -282,7 +283,7 @@
         #t_1_2_2.header-ecored--b.mb-5
           h2 1.2.2 Tipos de dispositivos para conectarse a internet
 
-        p.mb-6 Navegar por Internet nos abre un abanico de posibilidades para buscar y difundir información, conectarnos con personas de todas partes y realizar diferentes tareas que satisfagan las necesidades de la población en general.
+        p.mb-6 Navegar por internet abre un abanico de posibilidades para buscar y difundir información, conectarse con personas de todas partes y realizar diferentes tareas que satisfagan las necesidades de la población en general.
 
         .row.align-items-center.justify-content-around.mb-6
           .col-sm-8.col-md-5.mb-4.mb-md-0

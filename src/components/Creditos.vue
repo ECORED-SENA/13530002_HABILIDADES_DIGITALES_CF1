@@ -26,7 +26,7 @@ footer
           p.footer-texto
             strong Rafael Neftalí Lizcano Reyes
             br
-            span.text-small Asesor metodologógico y pedagógico
+            span.text-small Asesor metodológico y pedagógico
             br
             span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
             br
@@ -44,7 +44,7 @@ footer
           p.footer-texto
             strong Jhonaimer Diaz Cerquera
             br
-            span.text-small Experto tematico
+            span.text-small Experto temático
             br
             span.text-small.text-uppercase Centro de desarrollo Agroempresarial y turístico
             br
@@ -53,7 +53,7 @@ footer
           p.footer-texto
             strong Miguel Ricardo Rivera Lizcano
             br
-            span.text-small Experto tematico
+            span.text-small Experto temático
             br
             span.text-small Dirección general
 

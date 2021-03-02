@@ -36,7 +36,7 @@ export default {
       {
         img: require('@/assets/images/pages/tema1/img-21.png'),
         text:
-          '<strong>Revisar la red social </strong>en la que estamos inscritos',
+          '<strong>Revisar la red social </strong>en la que se está inscrito',
       },
       {
         img: require('@/assets/images/pages/tema1/img-20.png'),

@@ -7,7 +7,7 @@
   .jumbotron.bg-white
     p(v-for="(item,index) of glosarioData" :ref="'glosario-'+item.index")
       strong.mr-2 {{item.termino}}:
-      | {{item.significado}}.
+      | {{item.significado}}
   
 </template>
 
