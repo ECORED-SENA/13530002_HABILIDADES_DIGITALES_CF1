@@ -1134,10 +1134,6 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
-      <string id="three_image_items">ítems</string>
-      <string id="three_image_viewed">vistos</string>
-      <string id="three_image_of">de</string>
-      <string id="three_image_item">ítem</string>
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="enable_keyboardshortcuts">Activar atajos del teclado</string>
@@ -1174,17 +1170,21 @@
       <string id="acc_next">siguiente</string>
       <string id="finish">FINALIZAR</string>
       <string id="acc_volume">volumen</string>
+      <string id="keyboardshortcuts_lower">Atajos de teclado</string>
+      <string id="zoom_to_fit">Zoom para ajustar</string>
+      <string id="accessible_text">Texto accesible</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>
       <string id="terms">Condiciones</string>
       <string id="search_in">Buscar en:</string>
       <string id="send_an_email">Enviar correo electrónico</string>
-      <string id="keyboardshortcuts_lower">Atajos de teclado</string>
-      <string id="accessible_text">Texto accesible</string>
-      <string id="zoom_to_fit">Zoom para ajustar</string>
       <string id="transcript_chk">Notas</string>
       <string id="slide_text_chk">Texto Diapositiva</string>
+      <string id="three_image_viewed">vistos</string>
+      <string id="three_image_item">ítem</string>
+      <string id="three_image_items">ítems</string>
+      <string id="three_image_of">de</string>
       <string id="settings_tip">Ajustes</string>
       <string id="previous_slide_tip">Diapositiva anterior</string>
       <string id="unmute_tip">Desactivar silencio</string>
@@ -1240,7 +1240,7 @@
           <links>
             <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.5ZwvG4qrPFW" displaytext="1. Las TIC son:" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6Xc22MZ2EvC" displaytext="2. Es la Ley/Decreto que reglamenta las NIIF para Microempresas:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6Xc22MZ2EvC" displaytext="2. En la vida cotidiana, las TIC se desempeñan como:" expand="false" type="slide" />
             <slidelink slideid="_player.6iPYYXYye9N.6pFDAi7vip0" displaytext="3. Los teléfonos móviles pueden conectarse a Internet por medio de:" expand="false" type="slide" />
           </links>
         </slidelink>

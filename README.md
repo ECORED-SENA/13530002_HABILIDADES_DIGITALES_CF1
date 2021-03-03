@@ -1,24 +1,29 @@
-# sena_base
+# SENA base 1.0 beta 1
 
-## Project setup
+## Enlace GitHubPages
+
+[https://ecored-sena.github.io/13530002_HABILIDADES_DIGITALES_CF1/#/](https://ecored-sena.github.io/13530002_HABILIDADES_DIGITALES_CF1/#/)
+
+## Instalar dependencias
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Montar servidor local de desarrollo
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilara carpeta dist (carpeta publica)
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Linteo y cambio de errores sintacticos
+
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
