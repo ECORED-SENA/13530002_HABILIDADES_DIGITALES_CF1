@@ -2,7 +2,7 @@
 
 ## Enlace GitHubPages
 
-[https://ecored-sena.github.io/13530002_HABILIDADES_DIGITALES_CF1/#/](https://ecored-sena.github.io/13530002_HABILIDADES_DIGITALES_CF1/#/)
+[https://ecored-sena.github.io/13530002_HABILIDADES_DIGITALES_CF1/](https://ecored-sena.github.io/13530002_HABILIDADES_DIGITALES_CF1/)
 
 ## Instalar dependencias
 
